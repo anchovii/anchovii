@@ -1,5 +1,9 @@
-## Hi there 👋
+## anchovii.
 
+ooh template questions
+- 🔭 I’m currently working on: my website whenever I have the time
+- 💬 Ask me about:
+- 😄 Pronouns: you can find them !
 <!--
 **anchovii/anchovii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
